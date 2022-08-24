@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Livro Harry Potter e a Pedra Filosofal",
+      "price": 69.9,
+      "image": "https://i.ibb.co/HY8k6nN/book-1.png"
+    },
+    {
+      "id": 2,
+      "title": "Livro Harry Potter e o Cálice de Fogo",
+      "price": 89.9,
+      "image": "https://i.ibb.co/BBQjsBC/book-2.png"
+    },
+    {
+      "id": 4,
+      "title": "Caneca Pikachu",
+      "price": 59.9,
+      "image": "https://i.ibb.co/SsnvQTh/caneca-2.png"
+    },
+    {
+      "id": 5,
+      "title": "Mouse Pad TFlix + Mouse",
+      "price": 139.9,
+      "image": "https://i.ibb.co/88PXhDn/mouse-pad-1.png"
+    },
+    {
+      "id": 3,
+      "title": "Caneca Hobbit Downey JR",
+      "price": 49.9,
+      "image": "https://i.ibb.co/T8CWBZ9/caneca-1.png"
+    },
+    {
+      "id": 6,
+      "title": "Mouse Pad Feminino",
+      "price": 119.9,
+      "image": "https://i.ibb.co/HTsh8r3/mouse-pad-2.png"
+    }
+  ]
+}
